@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Emir Seyhan</h1>
 <h3 align="center">A passionate WEB and Games developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goteca&label=Profile%20views&color=0e75b6&style=flat" alt="goteca" /> </p>
 
 - 🔭 I’m currently working on [GameJam](https://genctek.eba.gov.tr/egitijam2026/)
 
@@ -28,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goteca&show_icons=true&locale=en" alt="goteca" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goteca&" alt="goteca" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=goteca&label=Profile%20views&color=0e75b6&style=flat" alt="goteca" /> </p>
