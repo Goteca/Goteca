@@ -5,11 +5,11 @@
 <h3 align="center">A passionate WEB and Games developer from Turkey</h3>
 
 
-- 🔭 I’m currently working on [GameJam](https://genctek.eba.gov.tr/egitijam2026/)
+- 🔭 I’m currently working on **JS and WEB DB**
 
-- 🌱 I’m currently learning **Unity C#**
+- 🌱 I’m currently learning **Unity 3D**
 
-- 💬 Ask me about **WEB and DataBase**
+- 💬 Ask me about **Unity**
 
 - 📫 How to reach me **emirseyhan09@gmail.com**
 
